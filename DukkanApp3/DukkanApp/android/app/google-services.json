@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102097653390",
+    "project_id": "reactnavite-72f8d",
+    "storage_bucket": "reactnavite-72f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102097653390:android:496f7a96f0a8b5a40303df",
+        "android_client_info": {
+          "package_name": "com.dukkanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102097653390-iln6ao2jspuhtqi6b62lulga5uolc3ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mmZnJHDmaIGC0lwGR1lDJQ7aH6UaxGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102097653390-iln6ao2jspuhtqi6b62lulga5uolc3ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
