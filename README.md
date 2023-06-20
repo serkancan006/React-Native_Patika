@@ -12,8 +12,7 @@ DukkanApp'i çalıştırmak için ise index.js dosyasındaki "src/Wrapper.js" b�
 
 
 
-###BananeApp
-
+### BananeApp
 ![13](https://github.com/serkancan006/React-Native/assets/109299838/b0d2988e-4b68-4388-986e-705811b8cae2)
 
 ![18](https://github.com/serkancan006/React-Native/assets/109299838/67494eed-1116-48fd-8af4-af237b9784c4)
@@ -22,9 +21,7 @@ DukkanApp'i çalıştırmak için ise index.js dosyasındaki "src/Wrapper.js" b�
 
 
 
-###Dukkan App
-
-
+### Dukkan App
 ![12](https://github.com/serkancan006/React-Native/assets/109299838/cf3bbb44-4c9b-4647-a115-7ed01f270dc4)
 
 ![14](https://github.com/serkancan006/React-Native/assets/109299838/c137a75e-3321-46a4-80a3-1cb8bbe0caca)
