@@ -19,12 +19,21 @@ DukkanApp'i çalıştırmak için ise index.js dosyasındaki "src/Wrapper.js" b�
 
 ![Screenshot_1](https://github.com/serkancan006/React-Native/assets/109299838/f61296f6-ec88-4eab-ae06-4c10a4ecd9a1)
 
+![Screenshot_3](https://github.com/serkancan006/React-Native/assets/109299838/d92cc447-dede-49a9-a646-37836d4507bf)
+
+![Screenshot_2](https://github.com/serkancan006/React-Native/assets/109299838/7d9d7617-11f7-49a0-afd8-80f9a84361fc)
+
+
+
 
 
 ### Dukkan App
 ![12](https://github.com/serkancan006/React-Native/assets/109299838/cf3bbb44-4c9b-4647-a115-7ed01f270dc4)
 
 ![14](https://github.com/serkancan006/React-Native/assets/109299838/c137a75e-3321-46a4-80a3-1cb8bbe0caca)
+
+![Screenshot_2asfa](https://github.com/serkancan006/React-Native/assets/109299838/a928db64-7ca2-4657-87b7-c4daa78e98d9)
+
 
 
 
